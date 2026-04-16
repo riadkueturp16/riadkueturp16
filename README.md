@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'am Syed Riad Morshed</h1>
+<h1 align="left">Hey 👋 I'm Syed Riad Morshed</h1>
 
 ###
 
