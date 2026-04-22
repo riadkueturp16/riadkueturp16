@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">•	Geospatial Data Analysis and spatial Modeling<br>•	GeoAI<br><br>•	Remote Sensing and LiDAR data Processing<br>•	Urban transportation and land use Planning<br>•	Thermal Comfort Modeling</p>
+<p align="left">•	Geospatial Data Analysis and spatial Modeling<br>•	GeoAI<br>•	Remote Sensing and LiDAR data Processing<br>•	Urban transportation and land use Planning<br>•	Thermal Comfort Modeling</p>
 
 ###
 
